@@ -36,21 +36,11 @@ I am a PhD student at Concordia University.
 
 - **One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster**  
   _International Journal of Dynamics and Control, 2025_  
-  [PDF](#) | [Code](#) | [BibTeX](#)
+  [PDF]([#](https://doi.org/10.1007/s40435-025-01701-x)) | [Code]([#](https://github.com/lear-ner97/Transformer-LSTM-DAF)) 
 
-- **Paper Title 2**  
+- **One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster**  
   _Conference/Journal Name, 2023_  
-  [PDF](#) | [Code](#) | [BibTeX](#)
-
----
-
-## 💼 Projects
-
-- **Project Title 1**  
-  Description of the project in 1–2 sentences. [GitHub](#)
-
-- **Project Title 2**  
-  Description of the project in 1–2 sentences. [GitHub](#)
+  [PDF](10.1109/IC_ASET53395.2022.9765941) | [Code]([#](https://github.com/lear-ner97/gas_demand_forecasting)) 
 
 ---
 
@@ -62,8 +52,8 @@ I am a PhD student at Concordia University.
 
 ## 📬 Contact
 
-- Email: your.email@domain.com  
-- Location: City, Country
+- Email: sami.benbrahim@mail.concordia.ca  
+- Location: Montreal, Canada.
 
 ---
 
