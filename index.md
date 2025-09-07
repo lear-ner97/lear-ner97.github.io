@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Your Name"
+---
+
 <link rel="stylesheet" href="assets/style.css">
 
 <div align="center">
@@ -34,9 +39,10 @@ I am a PhD student at Concordia University.
 
 ## 📄 Selected Publications
 
-- **One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster**  
-  _International Journal of Dynamics and Control, 2025_  
-  [PDF]([#](https://doi.org/10.1007/s40435-025-01701-x)) | [Code]([#](https://github.com/lear-ner97/Transformer-LSTM-DAF)) 
+- **"One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster"**  
+  _Published in International Journal of Dynamics and Control, 2025_  
+  🔗 [Paper](https://doi.org/10.1007/s40435-025-01701-x) | 💻 [Code](https://github.com/lear-ner97/Transformer-LSTM-DAF)
+
 
 - **One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster**  
   _Conference/Journal Name, 2023_  
@@ -57,4 +63,6 @@ I am a PhD student at Concordia University.
 
 ---
 
-
+<style>
+a { margin: 0 10px; text-decoration: none; }
+</style>
