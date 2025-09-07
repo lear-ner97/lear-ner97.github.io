@@ -1,22 +1,17 @@
----
-layout: default
-title: "Your Name"
----
-
 <link rel="stylesheet" href="assets/style.css">
 
 <div align="center">
 
-# 👋 Hello, I'm **Your Name**
+# 👋 Hello, I'm **Sami Ben Brahim**
 
-🎓 PhD Student in [Your Field]  
-🏛️ [Your University / Lab Name]  
+🎓 PhD Student in [Information and Systems Engineering]  
+🏛️ [Concordia University]  
 
 <!-- Social Icons -->
-<a href="https://scholar.google.com/citations?user=YOURID" target="_blank"><i class="fab fa-google-scholar fa-2x"></i></a>
-<a href="https://www.linkedin.com/in/YOURUSERNAME" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
-<a href="https://medium.com/@YOURUSERNAME" target="_blank"><i class="fab fa-medium fa-2x"></i></a>
+<a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank"><i class="fab fa-google-scholar fa-2x"></i></a>
 <a href="https://github.com/YOURUSERNAME" target="_blank"><i class="fab fa-github fa-2x"></i></a>
+<a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+<a href="https://medium.com/@sami.benbrahim" target="_blank"><i class="fab fa-medium fa-2x"></i></a>
 
 </div>
 
