@@ -4,8 +4,8 @@
 
 # 👋 Hello, I'm **Sami Ben Brahim**
 
-🎓 PhD Student in [Information and Systems Engineering]  
-🏛️ [Concordia University]  
+🎓 PhD Student in Information and Systems Engineering  
+🏛️ Concordia University  
 
 <!-- Social Icons -->
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank"><i class="fab fa-google-scholar fa-2x"></i></a>
@@ -19,24 +19,23 @@
 
 ## 🧑‍💻 About Me
 
-I am a PhD student at [Your University], researching [Your Research Area].  
-My interests include [Topic 1], [Topic 2], and [Topic 3].
+I am a PhD student at Concordia University.
 
 ---
 
 ## 🧠 Research Interests
 
-- Natural Language Processing  
-- Energy Forecasting  
-- Deep Learning  
-- Explainable AI  
+- Time Series Forecasting
+- Energy Load Forecasting
+- Representation Learning
+- Machine Learning
 
 ---
 
-## 📄 Publications
+## 📄 Selected Publications
 
-- **Paper Title 1**  
-  _Conference/Journal Name, 2024_  
+- **One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster**  
+  _International Journal of Dynamics and Control, 2025_  
   [PDF](#) | [Code](#) | [BibTeX](#)
 
 - **Paper Title 2**  
