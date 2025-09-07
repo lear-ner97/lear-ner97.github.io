@@ -57,6 +57,4 @@ I am a PhD student at Concordia University.
 
 ---
 
-<style>
-a { margin: 0 10px; text-decoration: none; }
-</style>
+
