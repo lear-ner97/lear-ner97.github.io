@@ -11,8 +11,8 @@
 🏛️ CIISE, Concordia University  
 
 <!-- Social Icons -->
-<a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank"><i class="fab fa-google-scholar fa-2x"></i></a>
-<a href="https://github.com/YOURUSERNAME" target="_blank"><i class="fab fa-github fa-2x"></i></a>
+<a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank"><i class="fa-solid fa-graduation-cap fa-2x"></i></a>
+<a href="https://github.com/lear-ner97" target="_blank"><i class="fab fa-github fa-2x"></i></a>
 <a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
 <a href="https://medium.com/@sami.benbrahim" target="_blank"><i class="fab fa-medium fa-2x"></i></a>
 
