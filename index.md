@@ -19,10 +19,11 @@
 
 ---
 
+<!--
 ## 🧑‍💻 About Me
 
 I am a PhD student at Concordia University. 
-
+-->
 ---
 
 ## 🧠 Research Interests
