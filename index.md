@@ -14,7 +14,7 @@
 
 <!-- Social Icons -->
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_Google_Scholar.png" alt="Google Scholar" width="32" style="vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="32" style="vertical-align:middle;">
 </a>
 <a href="https://github.com/lear-ner97" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub"/>
