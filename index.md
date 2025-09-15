@@ -14,8 +14,12 @@
 
 <!-- Social Icons -->
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank"><i class="fas fa-graduation-cap fa-2x"></i></a>
-<a href="https://github.com/lear-ner97" target="_blank"><i class="fab fa-github fa-2x"></i></a>
-<a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+<a href="https://github.com/lear-ner97" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub"/>
+</a>
+<a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn"/>
+</a>
 <a href="https://medium.com/@sami.benbrahim" target="_blank"><i class="fab fa-medium fa-2x"></i></a>
 
 
