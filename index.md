@@ -48,17 +48,18 @@ I am a PhD student at Concordia University.
   _Conference/Journal Name, 2023_  
   [Paper](https://ieeexplore.ieee.org/document/9765941) | [Code](https://github.com/lear-ner97/gas_demand_forecasting) 
 
+<!--
 ---
 
 ## 📄 Curriculum Vitae (CV)
 
 - [Download my CV (PDF)](cv.pdf)
-
+-->
 ---
 
 ## 📬 Contact
 
-- Email: sami.benbrahim@mail.concordia.ca  
+- Email: sami.benbrahim [at] mail.concordia.ca  
 - Location: Montreal, Canada.
 
 ---
