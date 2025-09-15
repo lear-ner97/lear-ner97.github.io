@@ -60,10 +60,10 @@ I am a PhD student at Concordia University.
 ## 📬 Contact
 
 - Email: sami.benbrahim [at] mail.concordia.ca  
-- Location: Montreal, Canada.
 
 ---
-
+<!--
 <style>
 a { margin: 0 10px; text-decoration: none; }
 </style>
+-->
