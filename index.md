@@ -42,7 +42,7 @@ I am a PhD student at Concordia University.
 
 - **One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster**  
   _Conference/Journal Name, 2023_  
-  [Paper](https://ieeexplore.ieee.org/document/9765941) | [Code](https://github.com/lear-ner97/gas_demand_forecasting) 
+  🔗 [Paper](https://ieeexplore.ieee.org/document/9765941) | 💻 [Code](https://github.com/lear-ner97/gas_demand_forecasting) 
 
 <!--
 ---
