@@ -1,6 +1,6 @@
 ---
-#layout: default
-#title: "Your Name"
+title: "Your Name"
+# layout: default
 ---
 
 <link rel="stylesheet" href="assets/style.css">
