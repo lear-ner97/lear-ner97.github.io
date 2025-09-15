@@ -14,7 +14,7 @@
 
 <!-- Social Icons -->
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="32" style="vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="32" style="vertical-align:middle;margin-bottom:-4px;">
 </a>
 <a href="https://github.com/lear-ner97" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" style="vertical-align:middle;">
@@ -22,7 +22,9 @@
 <a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn" style="vertical-align:middle;">
 </a>
-<a href="https://medium.com/@sami.benbrahim" target="_blank"><i class="fab fa-medium fa-2x" style="vertical-align:middle;"></i></a>
+<a href="https://medium.com/@sami.benbrahim" target="_blank">
+  <i class="fab fa-medium fa-2x" style="vertical-align:middle;"></i>
+</a>
 
 
 
