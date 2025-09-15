@@ -13,7 +13,9 @@
 🏛️ CIISE, Concordia University  
 
 <!-- Social Icons -->
-<a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank"><i class="fas fa-graduation-cap fa-2x"></i></a>
+<a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_Google_Scholar.png" alt="Google Scholar" width="32" style="vertical-align:middle;"/>
+</a>
 <a href="https://github.com/lear-ner97" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub"/>
 </a>
