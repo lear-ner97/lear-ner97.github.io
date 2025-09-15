@@ -25,7 +25,6 @@
 <a href="https://medium.com/@sami.benbrahim" target="_blank"><i class="fab fa-medium fa-2x"></i></a>
 
 
-</div>
 
 <!--
 ## 🧑‍💻 About Me
