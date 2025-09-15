@@ -10,7 +10,7 @@ title: "Your Name"
 # 👋 Hello, I'm **Sami Ben Brahim**
 
 🎓 PhD Student in Information and Systems Engineering  
-🏛️ Concordia University  
+🏛️ CIISE, Concordia University  
 
 <!-- Social Icons -->
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank"><i class="fab fa-google-scholar fa-2x"></i></a>
@@ -24,7 +24,7 @@ title: "Your Name"
 
 ## 🧑‍💻 About Me
 
-I am a PhD student at Concordia University.
+I am a PhD student at Concordia University. 
 
 ---
 
@@ -46,7 +46,7 @@ I am a PhD student at Concordia University.
 
 - **One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster**  
   _Conference/Journal Name, 2023_  
-  [PDF](10.1109/IC_ASET53395.2022.9765941) | [Code]([#](https://github.com/lear-ner97/gas_demand_forecasting)) 
+  [Paper](https://ieeexplore.ieee.org/document/9765941) | [Code](https://github.com/lear-ner97/gas_demand_forecasting) 
 
 ---
 
