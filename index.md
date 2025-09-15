@@ -6,6 +6,8 @@ title: "Your Name"
 <link rel="stylesheet" href="assets/style.css">
 
 <div align="center">
+  <h1>Welcome!</h1>
+</div>
 
 # 👋 Hello, I'm **Sami Ben Brahim**
 
