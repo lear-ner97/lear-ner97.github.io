@@ -56,7 +56,6 @@ _Published in International Journal of Dynamics and Control, 2025_
 _Conference/Journal Name, 2023_  
 🔗 [Paper](https://ieeexplore.ieee.org/document/9765941) | 💻 [Code](https://github.com/lear-ner97/gas_demand_forecasting) 
 
---
 
 ## 📄 Curriculum Vitae (CV)
 
