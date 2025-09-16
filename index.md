@@ -61,7 +61,7 @@ _Conference/Journal Name, 2023_
 ## 📄 Curriculum Vitae (CV)
 
 - [Download my CV (PDF)](cv_Sami_2025.pdf)
---
+
 ## 💼 Experience
 - **Teaching Assistant**, *Concordia University*, 2024-Today
 - **Research Assistant**, *Africa Business School*, 2022-2023
