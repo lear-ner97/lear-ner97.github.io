@@ -44,7 +44,7 @@ I am a PhD student at Concordia University.
 - Machine Learning
   
 
-## 📄 Selected Publications
+## 📚 Selected Publications
 
 - **"One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster"**  
 _Published in International Journal of Dynamics and Control, 2025_  
