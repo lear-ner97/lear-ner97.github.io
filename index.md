@@ -65,7 +65,7 @@ _Conference/Journal Name, 2023_
 -->
 ---
 ## 💼 Experience
-- **Teaching Assistent**, *Concordia University*, 2024-Today
+- **Teaching Assistant**, *Concordia University*, 2024-Today
 - **Research Assistant**, *Africa Business School*, 2022-2023
 - **Research Intern**, *RWTH Aachen University*, 2022
 
