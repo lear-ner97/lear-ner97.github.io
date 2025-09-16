@@ -3,11 +3,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 <link rel="stylesheet" href="assets/style.css">
 
+<!-- 
 <div align="center">
-  <h1>Welcome!</h1>
+  <h1></h1>
 </div>
-
-# 👋 I'm **Sami Ben Brahim**
+-->
+# 👋 Welcome! I'm **Sami Ben Brahim**
 
 🎓 PhD Student in Information and Systems Engineering  
 🏛️ CIISE, Concordia University  
