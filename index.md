@@ -47,12 +47,12 @@ I am a PhD student at Concordia University.
 ## 📚 Selected Publications
 
 - **"One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster"**  
-_Published in International Journal of Dynamics and Control, 2025_  
+_International Journal of Dynamics and Control, 2025_  
 🔗 [Paper](https://doi.org/10.1007/s40435-025-01701-x) | 💻 [Code](https://github.com/lear-ner97/Transformer-LSTM-DAF)
 
 
-- **One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster**  
-_Conference/Journal Name, 2023_  
+- **Long-term natural gas peak demand forecasting in Tunisia Using machine learning**  
+_5th International Conference on Advanced Systems and Emergent Technologies (IC_ASET), 2022_  
 🔗 [Paper](https://ieeexplore.ieee.org/document/9765941) | 💻 [Code](https://github.com/lear-ner97/gas_demand_forecasting) 
 
 
