@@ -70,7 +70,12 @@ _Conference/Journal Name, 2023_
 
 - Email: sami DOT benbrahim AT mail DOT concordia DOT ca  
 
+<!-- Add this at the end of your file -->
 ---
+
+<p align="center">
+  © 2025 Sami Ben Brahim. Built with ❤️ and GitHub Pages.
+</p>
 <!--
 <style>
 a { margin: 0 10px; text-decoration: none; }
