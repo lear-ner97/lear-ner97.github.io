@@ -42,7 +42,7 @@ I am a PhD student at Concordia University.
 - Energy Load Forecasting
 - Representation Learning
 - Machine Learning
-
+  
 ---
 
 ## 📄 Selected Publications
@@ -64,10 +64,15 @@ _Conference/Journal Name, 2023_
 - [Download my CV (PDF)](cv.pdf)
 -->
 ---
+## 💼 Experience
+- **Teaching Assistent**, *Concordia University*, 2024-Today
+- **Research Assistant**, *Africa Business School*, 2022-2023
+- **Research Intern**, *RWTH Aachen University*, 2022
+
 
 ## 📬 Contact
 
-- Email: sami.benbrahim [at] mail.concordia.ca  
+- Email: sami DOT benbrahim AT mail DOT concordia DOT ca  
 
 ---
 <!--
