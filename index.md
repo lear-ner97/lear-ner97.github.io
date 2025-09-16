@@ -1,6 +1,19 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 <link rel="stylesheet" href="assets/style.css">
 
+<!-- Place your navigation bar code here -->
+
+<nav>
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#research-interests">Research Interests</a></li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#publications">Publications</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <!-- Add other sections here -->
+  </ul>
+</nav>
+
 <!-- 
 <div align="center">
   <h1></h1>
