@@ -56,14 +56,12 @@ _Published in International Journal of Dynamics and Control, 2025_
 _Conference/Journal Name, 2023_  
 🔗 [Paper](https://ieeexplore.ieee.org/document/9765941) | 💻 [Code](https://github.com/lear-ner97/gas_demand_forecasting) 
 
-<!--
----
+--
 
 ## 📄 Curriculum Vitae (CV)
 
-- [Download my CV (PDF)](cv.pdf)
--->
----
+- [Download my CV (PDF)](cv_Sami_2025.pdf)
+--
 ## 💼 Experience
 - **Teaching Assistant**, *Concordia University*, 2024-Today
 - **Research Assistant**, *Africa Business School*, 2022-2023
