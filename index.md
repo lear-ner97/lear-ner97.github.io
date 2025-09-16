@@ -9,7 +9,7 @@
 # 👋 Welcome! I'm **Sami Ben Brahim**
 
 🎓 PhD Student in Information and Systems Engineering  
-🏛️ CIISE, Concordia University  
+🏛️ CIISE, Concordia University, Montreal, Canada  
 
 <!-- Social Icons -->
 <div style="text-align: center;">
