@@ -43,7 +43,6 @@ I am a PhD student at Concordia University.
 - Representation Learning
 - Machine Learning
   
----
 
 ## 📄 Selected Publications
 
