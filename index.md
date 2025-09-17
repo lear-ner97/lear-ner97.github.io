@@ -62,6 +62,7 @@ _5th International Conference on Advanced Systems and Emergent Technologies (IC_
 
 ## 💼 Experience
 - **Teaching Assistant**, *Concordia University*, 2024-Today
+- **Lecturer**, *Concordia University*, 2024
 - **Research Assistant**, *Africa Business School*, 2022-2023
 - **Research Intern**, *RWTH Aachen University*, 2022
 
