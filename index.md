@@ -14,7 +14,7 @@
 <!-- Social Icons -->
 <div style="text-align: center;">
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank" class="social-icon" title="Google Scholar">
-  <i class="fas fa-book"></i>
+  <i class="fas fa-graduation-cap"></i>
 </a>
 <a href="https://github.com/lear-ner97" target="_blank" class="social-icon">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" style="vertical-align: middle;">
