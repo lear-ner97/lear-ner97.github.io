@@ -14,15 +14,15 @@
 <!-- Social Icons -->
 <div style="text-align: center;">
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank" class="social-icon" title="Google Scholar">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlescholar.svg" width="32" alt="Google Scholar">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlescholar.svg" width="32" alt="Google Scholar" style="vertical-align: middle;filter: brightness(0.8) saturate(1.5) hue-rotate(-10deg);">
 </a>
-<a href="https://github.com/lear-ner97" target="_blank" class="social-icon" title="Github">> 
+<a href="https://github.com/lear-ner97" target="_blank" class="social-icon" title="Github"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub">
 </a>
-<a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank" class="social-icon" title="Linkedin">>
+<a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank" class="social-icon" title="Linkedin">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn" style="filter: brightness(1.2) saturate(1.5);">
 </a>
-<a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon" title="Medium">>
+<a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon" title="Medium">
   <i class="fab fa-medium fa-2x"></i>
 </a>
 </div>
