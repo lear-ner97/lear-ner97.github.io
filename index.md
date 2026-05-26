@@ -14,13 +14,13 @@
 <!-- Social Icons -->
 <div style="text-align: center;">
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank" class="social-icon" title="Google Scholar">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlescholar.svg" width="32" alt="Google Scholar">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="32" style="filter: invert(0.2);">
 </a>
 <a href="https://github.com/lear-ner97" target="_blank" class="social-icon">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub">
 </a>
 <a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank" class="social-icon">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn" style="filter: brightness(1.2) saturate(1.5);">
 </a>
 <a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon">
   <i class="fab fa-medium fa-2x"></i>
