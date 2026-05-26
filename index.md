@@ -1,46 +1,39 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 <link rel="stylesheet" href="assets/style.css">
 
-<!-- HERO SECTION -->
-<div class="hero-section">
-  <div class="hero-content">
-    <!-- Profile Avatar -->
-    <div class="avatar-container">
-      <img src="https://avatars.githubusercontent.com/u/lear-ner97?v=4" alt="Sami Ben Brahim" class="avatar">
-    </div>
-    
-    <h1 class="hero-title">👋 Sami Ben Brahim</h1>
-    <p class="hero-subtitle">Exploring the Future of Energy & Intelligence</p>
-    
-    <p class="hero-description">
-      🎓 PhD Student in Information & Systems Engineering<br>
-      🏛️ CIISE, Concordia University, Montreal
-    </p>
-    
-    <!-- Social Icons -->
-    <div class="social-icons-container">
-      <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank" class="social-icon" title="Google Scholar">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="32">
-      </a>
-      <a href="https://github.com/lear-ner97" target="_blank" class="social-icon" title="GitHub">
-        <i class="fab fa-github"></i>
-      </a>
-      <a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank" class="social-icon" title="LinkedIn">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon" title="Medium">
-        <i class="fab fa-medium"></i>
-      </a>
-      <a href="mailto:sami.benbrahim@mail.concordia.ca" class="social-icon" title="Email">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </div>
-    
-    <!-- CTA Button -->
-    <a href="#contact" class="cta-button">Let's Connect</a>
-  </div>
+<!-- 
+<div align="center">
+ <h1></h1>
+</div>
+-->
+# 👋 Welcome! I'm **Sami Ben Brahim**
+
+🎓 PhD Student in Information and Systems Engineering  
+🏛️ CIISE, Concordia University, Montreal, Canada  
+
+<!-- Social Icons -->
+<div style="text-align: center;">
+<a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank" class="social-icon">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="32" style="vertical-align: middle; margin-right: 10px;">
+</a>
+<a href="https://github.com/lear-ner97" target="_blank" class="social-icon">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" style="vertical-align: middle;">
+</a>
+<a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank" class="social-icon">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn" style="vertical-align: middle;">
+</a>
+<a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon">
+<i class="fab fa-medium fa-2x" style="vertical-align: middle;"></i>
+</a>
 </div>
 
+
+
+<!--
+## 🧑‍💻 About Me
+
+I am a PhD student at Concordia University. 
+-->
 ---
 
 ## 🧠 Research Interests
@@ -78,8 +71,14 @@ _5th International Conference on Advanced Systems and Emergent Technologies (IC_
 
 - Email: sami DOT benbrahim AT mail DOT concordia DOT ca  
 
+<!-- Add this at the end of your file -->
 ---
 
 <p align="center">
   © 2025 Sami Ben Brahim. Built with ❤️ and GitHub Pages.
 </p>
+<!--
+<style>
+a { margin: 0 10px; text-decoration: none; }
+</style>
+-->
