@@ -14,7 +14,7 @@
 <!-- Social Icons -->
 <div style="text-align: center;">
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank" class="social-icon" title="Google Scholar">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlescholar.svg" width="32" alt="Google Scholar" style="vertical-align: middle;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlescholar.svg" width="32" alt="Google Scholar" style="vertical-align: middle;color: blue;">
 </a>
 <a href="https://github.com/lear-ner97" target="_blank" class="social-icon" title="Github"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" style="vertical-align: middle;">
