@@ -22,9 +22,7 @@
 <a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank" class="social-icon" title="Linkedin">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn" style="vertical-align: middle;">
 </a>
-<a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon" title="Medium">
-  <i class="fab fa-medium fa-2x"></i>
-</a>
+
 </div>
 
 
