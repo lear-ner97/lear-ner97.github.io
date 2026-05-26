@@ -17,13 +17,13 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlescholar.svg" width="32" alt="Google Scholar">
 </a>
 <a href="https://github.com/lear-ner97" target="_blank" class="social-icon">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub">
 </a>
 <a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank" class="social-icon">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn">
 </a>
 <a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon">
-<i class="fab fa-medium fa-2x"></i>
+  <i class="fab fa-medium fa-2x"></i>
 </a>
 </div>
 
