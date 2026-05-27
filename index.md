@@ -14,7 +14,9 @@
 <!-- Social Icons -->
 <div style="text-align: center;">
 <a href="https://scholar.google.com/citations?hl=fr&user=JeOYd2EAAAAJ" target="_blank" class="social-icon" title="Google Scholar">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" style="vertical-align: middle; width: 32px; height: 32px;">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="#4285F4">
+    <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zm0 21c-4.96 0-9-9 4.04-9s9 4.04 9 9-4.04 9-9 9zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 9 15.5 9 14 9.67 14 10.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 9 8.5 9 7 9.67 7 10.5 7.67 12 8.5 12zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"/>
+  </svg>
 </a>
 <a href="https://github.com/lear-ner97" target="_blank" class="social-icon" title="Github"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" style="vertical-align: middle;">
