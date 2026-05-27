@@ -32,7 +32,7 @@
   <path d="M20.447 20.452H16.89v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.345V9h3.414v1.561h.049c.476-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.063 2.063 0 1 1 0-4.126 2.063 2.063 0 0 1 0 4.126zM6.999 20.452H3.674V9h3.325v11.452z"/>
 </svg>
 </a>
-<a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon" title="Medium"> <i class="fab fa-medium fa-2x" style="color: #000000;"></i>
+<a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon" title="Medium"> <i class="fab fa-medium" style="font-size: 32px; color: #000000; vertical-align: middle;"></i>
 </a>
 </div>
 
