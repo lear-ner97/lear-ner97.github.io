@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" style="vertical-align: middle;">
 </a>
 <a href="https://ca.linkedin.com/in/sami-ben-brahim" target="_blank" class="social-icon" title="Linkedin">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn" style="vertical-align: middle;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="32" alt="LinkedIn" style="vertical-align: middle; filter: invert(32%) sepia(98%) saturate(1207%) hue-rotate(183deg) brightness(92%) contrast(101%);">
 </a>
 <a href="https://medium.com/@sami.benbrahim" target="_blank" class="social-icon" title="Medium"> <i class="fab fa-medium fa-2x" style="color: #000000;"></i>
 </a>
