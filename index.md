@@ -48,26 +48,25 @@ I am a PhD student at Concordia University.
 ## 🧠 Research Interests
 
 - Time Series Forecasting
-- Energy Load Forecasting
+- Electricity Load Forecasting
 - Representation Learning
 - Machine Learning
   
 
 ## 📚 Selected Publications
 
+- **SpanPatchTST: A self-supervised learning framework for short- and mid-term forecasting of power transformer load and oil temperature**  
+_Sustainable Energy, Grids and Networks, 2026_  
+🔗 [Paper](https://www.sciencedirect.com/science/article/pii/S2352467726002596) | 💻 [Code](https://github.com/lear-ner97/SpanPatchTST) 
+
 - **"One-day-ahead electricity load forecasting of non-residential buildings using a modified Transformer-BiLSTM adversarial domain adaptation forecaster"**  
 _International Journal of Dynamics and Control, 2025_  
 🔗 [Paper](https://doi.org/10.1007/s40435-025-01701-x) | 💻 [Code](https://github.com/lear-ner97/Transformer-LSTM-DAF)
 
 
-- **Long-term natural gas peak demand forecasting in Tunisia Using machine learning**  
-_5th International Conference on Advanced Systems and Emergent Technologies (IC_ASET), 2022_  
-🔗 [Paper](https://ieeexplore.ieee.org/document/9765941) | 💻 [Code](https://github.com/lear-ner97/gas_demand_forecasting) 
-
-
 ## 📄 Curriculum Vitae (CV)
 
-- [Download my CV (PDF)](cv_Sami_2025.pdf)
+- [Download my CV (PDF)](cv_Sami_2026.pdf)
 
 ## 💼 Experience
 - **Teaching Assistant**, *Concordia University*, 2024-Today
@@ -84,7 +83,7 @@ _5th International Conference on Advanced Systems and Emergent Technologies (IC_
 ---
 
 <p align="center">
-  © 2025 Sami Ben Brahim. Built with ❤️ and GitHub Pages.
+  © 2026 Sami Ben Brahim. Built with ❤️ and GitHub Pages.
 </p>
 <!--
 <style>
